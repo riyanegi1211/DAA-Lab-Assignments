@@ -5,20 +5,24 @@ using namespace std;
 
 void sum(int arr[],int N)
 {
-    int i,j,flag=0;
-    for(i=0;i<N;i++)
+    int a,b,c,flag=0;
+    for(int i=0;i<N-2;i++)
     {
-        for(j=i+1;j<N;j++)
+        for(int j=0;j<N-2;j++)
         {
-            if((arr[i]+arr[j])==arr[j+1])
-            {
-                flag=1;
-                break;
-            }
+           for(int k=0;k<N;k++)
+           {
+                if(arr[i]+arr[j]==arr[k])
+                {   
+                    a=i;b=j;c=k;
+                    flag=1;
+                    break;
+                }
+           }
         }
     }
     if(flag==1)
-    cout<<i<<j<<j+1<<endl;
+    cout<<b+1<<" "<<a+1<<" "<<c+1<<endl;
     else
     cout<<"No pair found"<<endl;
 }
