@@ -8,7 +8,7 @@ void duplicate(int arr[],int N,int key)
     while(l<=r)
     {
         int mid=(l+r)/2;
-
+ 
         if(arr[mid]==key)
         {
             flag=1;
