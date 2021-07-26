@@ -8,7 +8,7 @@ void difference(int arr[],int N,int key)
     int i,j,flag=0,count=0;
     for(i=0;i<N;i++)
     {
-        for(j=i+1;j<N;j++)
+        for(j=i+1;j<N;j++) 
         {
             if(abs(arr[i]-arr[j])==key)
             count++;
