@@ -5,12 +5,12 @@ using namespace std;
 
 void sum(int arr[],int N)
 {
-    int i,j,flag=0,;
+    int i,j,flag=0;
     for(i=0;i<N;i++)
     {
         for(j=i+1;j<N;j++)
         {
-            if((arr[i]+arr[j]))
+            if((arr[i]+arr[j])==arr[j+1])
             {
                 flag=1;
                 break;
