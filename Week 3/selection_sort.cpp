@@ -1,3 +1,7 @@
+/*WEEK 3
+Question 2: Implementation of Selection Sort Algorithm.
+*/
+
 #include<bits/stdc++.h>
 using namespace std;
 
