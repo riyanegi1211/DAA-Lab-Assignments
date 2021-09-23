@@ -5,7 +5,7 @@ Question 2: To find the list of common elements from two sorted arrays.
 
 #include<bits/stdc++.h>
 using namespace std;
-
+ 
 int main()
 {
     int N1,N2,i,j;
