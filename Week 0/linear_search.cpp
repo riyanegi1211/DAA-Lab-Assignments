@@ -1,5 +1,8 @@
 /*WEEK 0
 Question 1: Implementation of Linear Search Algorithm
+
+Time Complexity: O(n)
+Space Complexity: O(1)
 */ 
 
 #include <iostream>
