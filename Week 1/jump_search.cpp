@@ -1,7 +1,7 @@
 /*WEEK 1
-Question 2: Implementation of Binary Search Algorithm
+Question 3: Implementation of Jump Search Algorithm
 
-Time Complexity: O(logn)
+Time Complexity: O(√ n)
 Space Complexity: O(1)
 */ 
 
