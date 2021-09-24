@@ -1,4 +1,4 @@
-/*WEEK 0
+/*WEEK 1
 Question 1: Implementation of Binary Search Algorithm
 
 Time Complexity: O(logn)
