@@ -26,7 +26,7 @@ void binary_search(int arr[],int N,int key)
             count++;
         }
         else
-        {
+        { 
             r=mid-1;
             count++;
         }
