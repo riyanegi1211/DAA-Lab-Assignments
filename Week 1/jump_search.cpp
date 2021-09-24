@@ -1,5 +1,5 @@
 /*WEEK 1
-Question 1: Implementation of Binary Search Algorithm
+Question 2: Implementation of Binary Search Algorithm
 
 Time Complexity: O(logn)
 Space Complexity: O(1)
