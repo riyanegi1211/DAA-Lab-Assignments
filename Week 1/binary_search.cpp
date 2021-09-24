@@ -1,5 +1,8 @@
 /*WEEK 1
 Question 2: Implementation of Binary Search Algorithm
+
+Time Complexity: O(log(n))
+Space Complexity: O(1)
 */ 
 
 #include<iostream>
