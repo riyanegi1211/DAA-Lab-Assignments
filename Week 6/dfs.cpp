@@ -1,5 +1,6 @@
 /*WEEK 6
-Question 1: To find if a path exists or not using Depth First Search (DFS) Algorithm
+Question 1: To find if a path exists or not using Depth First Search (DFS) Algorithm.
+
 Time Complexity: Adjacency Matrix - O(V^2)
                  Adjacency List - O(V+E)
 */
