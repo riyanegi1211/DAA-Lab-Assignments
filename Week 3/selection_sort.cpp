@@ -57,6 +57,6 @@ int main()
         }
         selection_sort(arr,N);
         print(arr,N);
-    }
+    } 
     return 0;
 }
