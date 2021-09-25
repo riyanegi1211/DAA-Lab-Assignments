@@ -1,5 +1,7 @@
 /*WEEK 3
-Question 3: Implementation of Sorting Algorithm having time complexity O(nlogn).
+Question 3: Implementation of Sorting Algorithm
+Time Complexity: O(nlogn)
+Space Complexity: O(n)
 */ 
 
 /* Merge Sort*/
