@@ -1,3 +1,12 @@
+/*WEEK 2
+Question 2. Given a sorted array of positive integers, design an algorithm and
+implement it using a program to find three indices i, j, k such that
+arr[i] + arr[j] = arr[k].
+
+Time Complexity: O(n^3)
+Space Complexity: O(1)
+*/
+
 #include<iostream>
 #include<cmath>
 
