@@ -1,3 +1,11 @@
+/*WEEK 4
+Question 3: To find Kth smallest or largest element using partition method.
+
+Time Complexity: Best Case O(nlogn)
+                 Worst Case O(n)
+Space Complexity: O(1)
+*/ 
+
 #include <bits/stdc++.h>
 using namespace std; 
 
@@ -36,7 +44,7 @@ int main(){
     cin>>t; 
     while(t--){
         cin>>n; 
-        int arr[n]; 
+        int arr[100]; 
         
         for(i=0;i<n;i++){
             cin>>arr[i];
