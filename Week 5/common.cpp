@@ -1,6 +1,7 @@
-/*
-WEEK 5 
+/*WEEK 5 
 Question 2: To find the list of common elements from two sorted arrays.
+
+Time Complexity: O(n)
 */
 
 #include<bits/stdc++.h>
