@@ -1,6 +1,7 @@
 /*WEEK 5 
 Question 2: To find the sum of two elements which is equal to the given key element. 
-The complexity of then program should be O(nlogn).
+
+Time Complexity: O(nlogn)
  */
 
 #include<bits/stdc++.h>
