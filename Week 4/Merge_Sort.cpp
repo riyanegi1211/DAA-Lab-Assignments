@@ -1,5 +1,8 @@
 /*WEEK 4
 Question 1: Implementation of Divide and Conquer approach using merge sort
+
+Time Complexity: O(nlogn)
+Space Complexity: O(n)
 */ 
 
 /* Merge Sort*/
