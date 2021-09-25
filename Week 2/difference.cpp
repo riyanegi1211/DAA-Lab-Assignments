@@ -1,3 +1,12 @@
+/*WEEK 2
+Question 3. Given an array of non-negative integers, design an algorithm and
+ a program to count the number of pairs of integers such that their difference
+ is equal to a given key, K.
+ 
+ Time Complexity: O(n^2)
+ Space Complexity: O(1)
+*/
+
 #include<iostream>
 #include<cmath>
 
