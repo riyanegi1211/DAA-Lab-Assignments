@@ -2,6 +2,8 @@
 Question 2: Implementation of Quick Sort
 Time Complexity: Best Case - O(nlogn)
                  Worst Case - O(n^2)
+                 
+Space Complexity: Worst Case (nlogn)
 */ 
 
 /* Quick Sort*/
