@@ -1,7 +1,10 @@
 /*WEEK 6
-Question 2: To check if a graph is Bipartite or not using Breadth First Search (BFS) 
+Question 2: To check if a graph is Bipartite or not using Breadth First Search (BFS)
+
 Time Complexity: O(V^2)
 */
+
+/* Graph Colouring Algorithm */
 
 #include<bits/stdc++.h>
 using namespace std;
