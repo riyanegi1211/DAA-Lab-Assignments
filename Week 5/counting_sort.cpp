@@ -1,5 +1,7 @@
 /* WEEK 5
-Question 1: To find frequency of duplicate alphabets by implementing Counting Sort having time complexity O(n)
+Question 1: To find frequency of duplicate alphabets by implementing Counting Sort
+
+Time Complexity: O(n)
 */
 
 #include <iostream>
