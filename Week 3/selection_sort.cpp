@@ -1,5 +1,8 @@
 /*WEEK 3
 Question 2: Implementation of Selection Sort Algorithm.
+
+Time Complexity: O(n^2)
+Space Commplexity: O(1)
 */
 
 #include<bits/stdc++.h>
